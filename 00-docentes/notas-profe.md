@@ -1,3 +1,7 @@
+# Apuntes del profesor para el curso
+
+## Trabajo con tipografías
+
 ```js
 // fuente: 
 // https://www.w3schools.com/cssref/css_websafe_fonts.php

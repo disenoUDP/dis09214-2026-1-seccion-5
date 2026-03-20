@@ -207,3 +207,7 @@ luego esto será un recurso para la solemne-01. Se usarán design manifiestos co
 - [Mamfred Mohr](https://www.emohr.com): cubos , similar a SOl Lewitt
 - [blog de referentes de arte computacional de los 50 y 60](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
 - [arte algorítmico](https://es.wikipedia.org/wiki/Arte_algorítmico)
+
+### Registro clase
+
+<https://youtu.be/dqclBmR6HLc>

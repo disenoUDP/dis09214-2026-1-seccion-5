@@ -2,7 +2,7 @@
 
 Repositorio del curso DIS09214 pensamiento computacional, sección 5. Sala R180.-1.L12.
 
-Esta sección es impartida por profesor Matías Serrano, en conjunto con ayudante XXXXXX YYYYYY.
+Esta sección es impartida por profesor Matías Serrano, en conjunto con ayudante Santiago Gaete.
 
 ## Secciones
 

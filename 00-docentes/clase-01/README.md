@@ -175,7 +175,7 @@ realizaciones:
 3. comentarios: libertad, el códgio se lo salta
 4. guardar y nombrar: esto es solo texto guardado en un link, no se guarda en tu pc. es muy liviano
 5. compartir: link de ver y editar, lo usaremos para bitácora por hoy
-6. funciones: las funciones tienen argumentos, cosas que te "pide"
+6. funciones: las funciones tienen argumentos, cosas que te "pide" TODO agregar links
     1. createCanvas: debe estar dentro del setup
     2. colores: RGB, 1 argumento vs 3 argumentos
     3. line(); : puntos de origen y ounto de destino. (x, y)

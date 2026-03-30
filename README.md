@@ -4,6 +4,20 @@ Repositorio del curso DIS09214 pensamiento computacional, sección 5. Sala R180.
 
 Esta sección es impartida por profesor Matías Serrano, en conjunto con ayudante Santiago Gaete.
 
+- matias.serrano@mail.udp.cl
+- <https://github.com/misaaaaaa>
+
+- santiago.gaete@mail.udp.cl
+- <https://github.com/santiagoClifford>
+
+## Links relevantes
+
+- [ASITENCIA](https://docs.google.com/spreadsheets/d/e/2PACX-1vQd910FRDwFQZmbBXLb_Ii_u1vapKyY3b13R7bvLVK7G-xk_mYGnuQXn2h3QCHHRo2f-U4YGRS93o1F/pubhtml)
+- [canal de discord](https://discord.gg/pwbvFBK4)
+- [colección de sketches vistos en clase](https://editor.p5js.org/matilov/collections/N3cjerrON)
+- [skecthes de p5.js matías](https://editor.p5js.org/matilov/sketches)
+- [sketches de p5.js de santiago](https://editor.p5js.org/clifford1one/sketches)
+
 ## Secciones
 
 | n | docente           | web                                           | horario                                 | enlace                                                   |
@@ -69,6 +83,23 @@ Esta sección es impartida por profesor Matías Serrano, en conjunto con ayudant
 2. 50% NP Solemne 1: Diseño de imagen movimiento (Entrega + bitácora)
 
 3. Examen (Entrega + bitácora)
+
+### solemne-01
+
+La nota de la solemne-01 será determinada por el proceso previo(40%) y la entrega misma(60%))
+
+| **entregas y proceso** - 40% |
+|---|
+| Sol Lewitt (chequear que esté bien compartido el enlace, y que haya cita hacia donde encontraron la información |
+| Exploración primitiva, vista en primera clase (línea, cuadrado, triángulo, elipse, círculo, colores, rellenos y bordes) |
+| Proceso de afiche para solemne 01 HASTA ESTE JUEVES (pueden compartir en la tarea correspondiente, y pedir feedback a través de un comentario en la misma tarea) |
+|  |
+| **entrega solemne-01** - 60% |
+| Uso de recursos gráficos aprendidos (figuras geométricas, colores en HSB, vertex, tipografía) |
+| Composición visual |
+| Coherencia entre recursos visuales y frase elegida del manifiesto. Recuerden que las citas siempre se pueden parafrasear, y las operaciones gráficas pueden ampliarlas (tachar, repetir, ampliar, etc.) |
+| Incluir comentarios dentro de su código, con recordatorios de lo que hacen las funciones (usar //) |
+| Mencionar dentro de los comentarios del código la cita original del manifiesto en la que se basaron. |
 
 ## Bibliografía (boceto)
 

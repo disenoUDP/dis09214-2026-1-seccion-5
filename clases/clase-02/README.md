@@ -2,7 +2,13 @@
 
 2026-03-27
 
-[SKECTH DE HOY](https://editor.p5js.org/matilov/sketches/_tVpLK3LN)
+GRABACIONES
+
+- <https://youtu.be/j7lGxQFhupc>
+- <https://youtu.be/LskLhX4_668>
+
+SKETCH de p5.js
+- <https://editor.p5js.org/matilov/sketches/_tVpLK3LN>
 
 ## inicio
 

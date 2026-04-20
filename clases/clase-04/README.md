@@ -11,7 +11,7 @@ sketches de hoy:
 videos de clase
 
 - [parte 1](https://youtu.be/2RVkz5oEihI)
-- [parte 2]()
+- [parte 2](https://youtu.be/kobeVxdn1ZQ)
 
 ## introducción
 
@@ -105,7 +105,9 @@ if(segundosQueHanPasado > 10){emitirAlarma}
 
 ## encargo-04
 
-hacer que formas primitivas varíen en el tiempo. Que cambien alguna característica en base a variables nativas:
+hacer que formas primitivas varíen en el tiempo. Que cambien alguna característica en base a variables nativas: 
+
+PARA ENTREGAR: añadir un archivo en su cuenta de github llamado encargo-04.js y compartir ese enlace
 
 - frameCount()
 - mouseX

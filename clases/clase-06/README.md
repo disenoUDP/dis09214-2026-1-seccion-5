@@ -28,7 +28,7 @@ Se realizará en parejas o individualmente.
 
 ### Formato de entrega
 
-Archivo llamado "solemne-02.md" basado en la [plantilla](https://raw.githubusercontent.com/disenoUDP/dis09214-2026-1-seccion-5/refs/heads/main/clases/clase-06/plantilla-solemne02.md)
+Subir [aquí](https://github.com/disenoUDP/dis09214-2026-1-seccion-5/tree/main/clases/entregas/solemne-02) archivo llamado "solemne-02.md" basado en la [plantilla](https://github.com/disenoUDP/dis09214-2026-1-seccion-5/tree/main/clases/entregas/solemne-02.md).
 
 Producir una imagen en movimiento basada en la estética de un álbum de música chilena (referencias visuales, videoclips, letras, instrumentación, atmósfera, contexto histórico, etc.).
 
@@ -95,7 +95,7 @@ Se revisará en la clase del 22 de mayo con una interrogación oral para dar cue
 
 - Libro "Casete Nacional" <https://www.libreriadelgam.cl/libro/casete-nacional_108435>
 
-## Plantilla
+### Plantilla
 
 [./plantilla-solemne02.md](plantilla-solemne02.md)
 

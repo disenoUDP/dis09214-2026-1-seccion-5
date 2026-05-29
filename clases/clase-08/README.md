@@ -37,6 +37,14 @@ El archivo principal donde escribes tu código. Aquí se determinan las interacc
 
 para el examen deben subir su proyecto a una página web, utilizando GitHub.
 
+### Jam
+
+Para guardar gifs de tu animación en p5.js. Hay que decirle cuantos segundos va a durar, y cuanto delay va a aplicarse desde que se ejecuta
+<https://p5js.org/reference/p5/saveGif/>
+
+pikmin interactivo
+<https://editor.p5js.org/matilov/sketches/KsZrlTlhT>
+
 ## extras y referentes
 
 - [Gladeye](https://www.gladeye.com/)

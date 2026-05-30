@@ -160,3 +160,4 @@ La nota de la solemne-01 será determinada por el proceso previo(40%) y la entre
   * <https://adamherst.art/introduction_to_generative_drawing_letter.pdf>
 
   * <https://aijun19.github.io/TheAnimationCodeBook/curriculum.html>
+

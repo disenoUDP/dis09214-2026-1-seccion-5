@@ -64,3 +64,33 @@
 [submodule "bitacoras/SoyTany"]
 	path = bitacoras/SoyTany
 	url = https://github.com/SoyTany/BITACORA_PENSAMIENTO_COMPUTACIONAL
+[submodule "bitacoras/fdaceituno"]
+	path = bitacoras/fdaceituno
+	url = https://github.com/fdaceituno/clases_pensamiento_computacional
+[submodule "bitacoras/Eiivor07"]
+	path = bitacoras/Eiivor07
+	url = https://github.com/Eiivor07/bitacora-pensamiento-computacional
+[submodule "bitacoras/fullpiketia"]
+	path = bitacoras/fullpiketia
+	url = https://github.com/fullpiketia/bitacora-pensamiento-computacional-
+[submodule "bitacoras/drescuebbas"]
+	path = bitacoras/drescuebbas
+	url = https://github.com/drescuebbas/bitacora-pensamiento-computacional
+[submodule "bitacoras/isimolina16"]
+	path = bitacoras/isimolina16
+	url = https://github.com/isimolina16/PensamientoComputacional
+[submodule "bitacoras/Chrisploo"]
+	path = bitacoras/Chrisploo
+	url = https://github.com/Chrisploo/Bitacora-Pensamiento-Computacional
+[submodule "bitacoras/sofiareyesantivil"]
+	path = bitacoras/sofiareyesantivil
+	url = https://github.com/sofiareyesantivil/BitacoraPensamientoComputacional
+[submodule "bitacoras/zxxnie"]
+	path = bitacoras/zxxnie
+	url = https://github.com/zxxnie/Bitacora_pensamiento_computacional
+[submodule "bitacoras/constanzaseyssel-source"]
+	path = bitacoras/constanzaseyssel-source
+	url = https://github.com/constanzaseyssel-source/bitacora-computacional
+[submodule "bitacoras/icaran"]
+	path = bitacoras/icaran
+	url = https://github.com/colombaicaran-design/bitacora-pensamiento-computacional

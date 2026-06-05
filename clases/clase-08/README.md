@@ -4,7 +4,7 @@
 
 ## introducción
 
-COmenzamos hablando del examen.
+Comenzamos hablando del examen.
 
 ¿qué cuenta como relato?
 
@@ -50,3 +50,5 @@ para el examen deben subir su proyecto a una página web, utilizando GitHub.
 - [clifford1one.github.io](https://clifford1one.github.io/)
 
 - [sketch ejemplos de interacciones del mouse](https://editor.p5js.org/clifford1one/sketches/KYRtLB3Dj)
+
+- [ejemplo actos los pulentos](https://editor.p5js.org/clifford1one/sketches/xnwwbr4hk)

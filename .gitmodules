@@ -67,6 +67,7 @@
 [submodule "bitacoras/fdaceituno"]
 	path = bitacoras/fdaceituno
 	url = https://github.com/fdaceituno/clases_pensamiento_computacional
+	ignore = dirty
 [submodule "bitacoras/Eiivor07"]
 	path = bitacoras/Eiivor07
 	url = https://github.com/Eiivor07/bitacora-pensamiento-computacional

@@ -37,6 +37,14 @@ El archivo principal donde escribes tu código. Aquí se determinan las interacc
 
 para el examen deben subir su proyecto a una página web, utilizando GitHub.
 
+### Jam
+
+Para guardar gifs de tu animación en p5.js. Hay que decirle cuantos segundos va a durar, y cuanto delay va a aplicarse desde que se ejecuta
+<https://p5js.org/reference/p5/saveGif/>
+
+pikmin interactivo
+<https://editor.p5js.org/matilov/sketches/KsZrlTlhT>
+
 ## extras y referentes
 
 - [Gladeye](https://www.gladeye.com/)
@@ -50,5 +58,3 @@ para el examen deben subir su proyecto a una página web, utilizando GitHub.
 - [clifford1one.github.io](https://clifford1one.github.io/)
 
 - [sketch ejemplos de interacciones del mouse](https://editor.p5js.org/clifford1one/sketches/KYRtLB3Dj)
-
-- [ejemplo actos los pulentos](https://editor.p5js.org/clifford1one/sketches/xnwwbr4hk)

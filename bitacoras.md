@@ -17,7 +17,7 @@
 | PABLO ARIEL GODOY CABEZAS                   | https://github.com/pavloskyyy/clase_pensamiento                            | editor.p5js.org/pavlosky/sketches            |
 | FRIDA BETSABÉ GONZALES FRANCIA              | https://github.com/frrrida/bitacora-de-pensamiento-computacional           | editor.p5js.org/frrrida/sketches             |
 | MATÍAS IGNACIO GUTIÉRREZ PEÑA               | https://github.com/Matiasssss5/bitacora-pensamiento-computacional          | editor.p5js.org/matias.gutierrez5/sketches   |
-| COLOMBA MARTINA ICARAN POLLAROLO            |                                                                            | editor.p5js.org/colombaicaran/sketches       |
+| COLOMBA MARTINA ICARAN POLLAROLO            |    <https://github.com/colombaicaran-design/bitacora-pensamiento-computacional>                                                                        | <editor.p5js.org/colombaicaran/sketches>       |
 | ROMINA CARELY INOSTROZA CAMPOS              | https://github.com/Dezcontinuado/pensamiento-computacional                 | editor.p5js.org/Romina_campos/sketches       |
 | ALMENDRA CELESTE MANZI VALDÉS               | https://github.com/Almendra-Manzi/bitacora-de-pensamiento-computacional    | editor.p5js.org/SoftBlue_Ali/sketches        |
 | BENJAMÍN ALEJANDRO MARCHANT SALINAS         | https://github.com/pansitoaceituna/bitacora-de-pensamiento-computacional/  | editor.p5js.org/Marchant/sketches            |
@@ -28,7 +28,7 @@
 | MAIRA BELÉN RAMÍREZ SÁEZ                    | https://github.com/MeymeyG/Bitacora-PensamientoComputacional               | editor.p5js.org/May_R/sketches               |
 | SOFÍA CATALINA REYES ANTIVIL                | https://github.com/sofiareyesantivil/BitacoraPensamientoComputacional      | editor.p5js.org/sofia.reyes4/sketches        |
 | FRANCOISE ALEJANDRA SEGUEL JAQUE            | https://github.com/Mingowastaken/bitacora-de-pensamiento-computacional     | editor.p5js.org/mingowastaken/sketches       |
-| CONSTANZA GABRIELA SEYSSEL CATALDO          | https://github.com/constanzaseyssel-source/bitacora-pensamientoc           | editor.p5js.org/constanzasyssl/sketches      |
+| CONSTANZA GABRIELA SEYSSEL CATALDO          | <https://github.com/constanzaseyssel-source/bitacora-computacional>           | editor.p5js.org/constanzasyssl/sketches      |
 | ROBERTO IGNACIO SILVA ESPÍNDOLA             | https://github.com/LastAngel16/bitacora-de-pensamiento-computacional       | editor.p5js.org/LastSamuel5/sketches         |
 | CATALINA AURORA SOTO RODRÍGUEZ              | https://github.com/moqalatte/bitacora_pensamiento_computacional            | editor.p5js.org/catasoto/sketches            |
 | FLORENCIA FERNANDA BEATRIZ VALENCIA GAJARDO | https://github.com/zxxnie/Bitacora_pensamiento_computacional               | editor.p5js.org/Fuyu_xoi/sketches            |

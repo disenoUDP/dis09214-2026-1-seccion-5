@@ -58,3 +58,9 @@ pikmin interactivo
 - [clifford1one.github.io](https://clifford1one.github.io/)
 
 - [sketch ejemplos de interacciones del mouse](https://editor.p5js.org/clifford1one/sketches/KYRtLB3Dj)
+
+## Videos
+
+Parte 1 (cortada): <https://youtu.be/lXmt2UIQpzY>
+
+Parte 2 (tutorial rápido): <https://youtu.be/lLOizsE4oAI>

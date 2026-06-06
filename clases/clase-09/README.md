@@ -50,3 +50,7 @@ Instrucciones y consejos para este examen
 - Publicar proyecto en Github Pages
 
 - Procuren que las interacciones sean coherentes con el relato
+
+## Video
+
+Introducción al uso de máquinas de estado: <https://youtu.be/7THkrRVM20c>

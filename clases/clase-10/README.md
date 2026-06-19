@@ -4,6 +4,10 @@
 
 Haz click  en README.md, luego en `raw` para ve código base de plantilla
 
+## Link de web pública (github pages)
+
+<https://link.com>
+
 ### Título del proyecto
 
 Nombre de proyecto

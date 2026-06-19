@@ -8,6 +8,10 @@ Haz click  en README.md, luego en `raw` para ve código base de plantilla
 
 Nombre de proyecto
 
+### Referencia de origen / bibliografía
+
+Haikú, poema, película, etc. Siempre nombrar autor y año.
+
 ### Imagen de referencia de proyecto
 
 Deja acá una imagen de la "portada" de tu proyecto. Como si fuera un afiche. Puede ser un fotograma de toda la interacción.
